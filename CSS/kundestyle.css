@@ -1,0 +1,116 @@
+head{
+  background-color: yellow;
+}
+
+h1{
+  border : 5px solid black;
+  text-align: center;
+}
+
+body{
+  background-color: gray;
+  font-family: Helvetica, Arial, Geneva, sans-serif;
+  background-size: cover;
+  font-size : 15px;
+  color : green;
+  width : 100%;
+}
+
+.page-footer{
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 2.5rem;            /* Footer height */
+	margin-bottom: 20px;
+  }
+
+span[id="margherita"]{
+	  padding-right: 4em;
+	  padding-right: 29px;
+	}
+	span[id="hawai"]{
+	  padding-right: 4em;
+	  padding-right: 59px;
+	}
+	span[id="tonno"]{
+	  padding-right: 4em;
+	  padding-right: 60px;
+	}
+	span[id="salami"]{
+	  padding-right: 4em;
+	  padding-right: 53px;
+	}
+	input[type="radio"]
+	{
+	  margin-right: 100px;
+	}
+
+
+	tab0{ padding-left: 3em;}
+	tab1 { padding-left: 5em; }
+	tab2 { padding-left: 7em; }
+	tab3 { padding-left: 12em; }
+
+	
+@media only screen and (min-width: 840px) {
+    
+	head{
+	background-color: yellow;
+	}
+
+	h1{
+	  border : 5px solid black;
+	  text-align: center;
+	}
+
+	body{
+	  background-color: gray;
+	  font-family: Helvetica, Arial, Geneva, sans-serif;
+	  background-size: cover;
+	  font-size : 20px;
+	  color : blue;
+	  width : auto;
+	  float : none;
+	}
+
+	footer{
+	  font-family: Helvetica, Arial, Geneva, sans-serif;
+	  background-size: cover;
+	  font-size : 20px;
+	  color : blue;
+	  width : auto;
+	  float : none;
+	}
+
+
+	
+
+	span[id="margherita"]{
+	  padding-right: 4em;
+	  padding-right: 19px;
+	}
+	span[id="hawai"]{
+	  padding-right: 4em;
+	  padding-right: 59px;
+	}
+	span[id="tonno"]{
+	  padding-right: 4em;
+	  padding-right: 60px;
+	}
+	span[id="salami"]{
+	  padding-right: 4em;
+	  padding-right: 53px;
+	}
+	input[type="radio"]
+	{
+		margin-right: 0px;
+	}
+
+
+	tab0{ padding-left: 3em;}
+	tab1 { padding-left: 5em; }
+	tab2 { padding-left: 7em; }
+	tab3 { padding-left: 12em; }
+}
+
+	

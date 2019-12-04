@@ -1,0 +1,109 @@
+head{
+  background-color: yellow;
+}
+
+h1{
+  border : 1px solid black;
+  text-align: center;
+}
+body{
+  
+  font-family: Helvetica, Arial, Geneva, sans-serif;
+  background-size: cover;
+  font-size : 20px;
+  color : red;
+}
+nav{
+  padding-left: 12em;
+
+  
+}
+
+input[type="button"]
+{
+	 background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding-bottom: 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+}
+.menu {
+  float: left;
+  
+}
+
+.cart select{
+  width: 400px;
+}
+input[type ="text"]
+{
+  width:400px;
+}
+
+span[id="margherita"]{
+  padding-right: 4em;
+  padding-right: 19px;
+}
+span[id="hawai"]{
+  padding-right: 4em;
+  padding-right: 59px;
+}
+span[id="tonno"]{
+  padding-right: 4em;
+  padding-right: 61px;
+}
+span[id="salami"]{
+  padding-right: 4em;
+  padding-right: 53px;
+}
+input[type="radio"]
+{
+  margin-right: 150px;
+}
+
+#delete-all{
+  margin-top: 20px;
+  margin-left:100px;
+}
+#delete-selected{
+  margin-top: 20px;
+}
+#waren{
+  margin-top: 0px;
+  margin-left: 110px;
+}
+
+.cart{
+  position: absolute;
+  margin-left:  500px;
+}
+#cart{
+  position: absolute;
+  top : 150px;
+  float: left;
+}
+#statust{
+  margin-left:40px;
+}
+#menu1{
+  font-size: 20px;
+  margin-top : 50px;
+  margin-left: 20px;
+}
+
+#radiobtn{
+  position: relative;
+  left: 10px;
+  margin-left: 100px;
+}
+tab0{ padding-left: 3em;}
+tab1 { padding-left: 5em; }
+tab2 { padding-left: 7em; }
+tab3 { padding-left: 12em; }
+
+.atab { 
+  margin-right: 20px;
+}
